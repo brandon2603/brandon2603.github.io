@@ -1,0 +1,27 @@
+body{
+background-color: coral;
+
+}
+p{
+font-family: 'Times New Roman', Times, serif;
+color:aqua
+
+}
+h1{
+border-radius: 3px;
+border-color: black;
+color: rgb(255, 251, 0);
+}
+h2{
+font-size: large;
+color: rgb(0, 255, 26);
+font-family: fantasy;
+}
+li {
+    color: rgb(81, 255, 0);
+    font-size: 100px;
+    text-shadow:rgb(255, 251, 0)
+}
+img{
+   border: 5px solid rgb(0, 183, 255);
+}
